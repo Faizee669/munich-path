@@ -1,0 +1,6 @@
+streamlit==1.36.0 # Or your preferred stable version
+Flask==3.0.3 # Or your preferred stable version
+pandas==2.2.2 # Or your preferred stable version
+requests==2.32.3 # Or your preferred stable version
+google-generativeai==0.7.0 # Or your preferred stable version
+python-dotenv==1.0.1 # Or your preferred stable version
